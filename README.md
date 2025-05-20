@@ -10,6 +10,7 @@ I'm passionate about:
 - 📱 Social Media & Digital Marketing
 
 📚 Courses I Have Completed:
+
 ✅ Drone Making and Coding Training
 ✅ Artificial Intelligence (AI) Training
 ✅ Coding with Python
