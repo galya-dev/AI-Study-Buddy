@@ -22,7 +22,7 @@ I'm passionate about:
 ✅ Python ile Kodlama  
 ✅ Yapay Zeka kullanımı ve Prompt Mühendislliği
 ✅ Sosyal Medya ve Dijital Pazarlama Eğitimi  
-✅ Software and Web Specialist Eğitimi
+✅ Yazılım ve Web Uzmanlıgı Eğitimi
 
 > 🏆 All certified — I successfully completed these courses and passed their final exams.
 
