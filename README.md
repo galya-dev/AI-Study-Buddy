@@ -1,6 +1,6 @@
  Tech Bloom | My First Steps in AI & Coding💻
  
-ABOUT ME
+🙎‍♀️ABOUT ME
 
 Hi there! I'm GALYA.👋  
 Welcome to my GitHub profile! This is where I share my journey into the world of technology, creativity, and self-growth.
