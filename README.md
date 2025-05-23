@@ -85,9 +85,7 @@ Let’s grow, code, and create together. 🚀
 
 👍 Love YOURSELF and never stop DREAMING!
 
-yaml
-Kopyala
-Düzenle
+
 
 
 
