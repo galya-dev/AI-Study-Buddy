@@ -1,7 +1,7 @@
 # 🤖 AI Study Buddy
 
 Your personal AI-powered companion for smarter studying!  
-Created with ❤️ by **Galya Sarikaya**
+Created with ❤️ by [galya-dev](https://github.com/galya-dev)
 
 ---
 
@@ -10,7 +10,7 @@ Created with ❤️ by **Galya Sarikaya**
 Hi there! I'm GALYA 👋  
 Welcome to my AI-powered project! This is where I share my journey into the world of technology, creativity, and self-growth.
 
-🎓 Academic Degree / 📐 Master in Natural Sciences – Mathematics.
+🎓 Academic Degree: Master in Natural Sciences – Mathematics.
 
 I'm passionate about:
 
@@ -58,19 +58,24 @@ Using AI technologies, this project provides study tips, instant summaries, and 
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/galya-dev/AI-Study-Buddy.git
+```bash
+git clone https://github.com/galya-dev/AI-Study-Buddy.git
 Navigate to the project folder:
 
 bash
 Kopyala
-Düzenle
 cd AI-Study-Buddy
 Run or open the project in your development environment.
-(Future updates will include setup instructions.)
+
+Future updates will include setup instructions.
+
+🏅 Certificate
+
+🎓 CS50x: Introduction to Computer Science — HarvardX
+I successfully completed the course and earned a verified certificate!
 
 📄 License & Copyright
-© 2025 Galya Sarikaya — All rights reserved.
+© 2025 GALYA SARIKAYA — All rights reserved.
 Please do not reuse this content or code without explicit permission.
 
 🌟 Let's Connect!
@@ -78,12 +83,125 @@ GitHub: @galya-dev
 
 Portfolio: coming soon
 
-Email: galya.dev@gmail.com (or your new professional one)
+Email: devgalyas@gmail.com
 
-Thank you for visiting my project!
+💖 Thank you for visiting my project!
 Let’s grow, code, and create together. 🚀
-
 👍 Love YOURSELF and never stop DREAMING!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
