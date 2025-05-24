@@ -60,13 +60,13 @@ Using AI technologies, this project provides study tips, instant summaries, and 
 git clone https://github.com/galya-dev/AI-Study-Buddy.git
 
 Navigate to the project folder:
-
 cd AI-Study-Buddy
 Run or open the project in your development environment.
 
 Future updates will include setup instructions.
 
 🏅 Certificate
+
  🎓CS50x: Introduction to Computer Science — HarvardX
 I successfully completed the course and earned a verified certificate!
 
