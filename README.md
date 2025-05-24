@@ -66,9 +66,7 @@ Run or open the project in your development environment.
 Future updates will include setup instructions.
 
 ## 🏅 Certificate
-
 ![CS50x Certificate](./CS50x%20Certificate.jpg)
-
 🎓 **CS50x: Introduction to Computer Science — HarvardX**  
 *I successfully completed the course and earned a verified certificate!*
 
