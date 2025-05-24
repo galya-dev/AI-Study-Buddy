@@ -3,7 +3,6 @@
 Your personal AI-powered companion for smarter studying!  
 Created with ❤️ by [galya-dev](https://github.com/galya-dev)
 
----
 
 ## 🙋‍♀️ About Me
 
@@ -58,20 +57,17 @@ Using AI technologies, this project provides study tips, instant summaries, and 
 
 1. Clone this repository:
 
-```bash
 git clone https://github.com/galya-dev/AI-Study-Buddy.git
+
 Navigate to the project folder:
 
-bash
-Kopyala
 cd AI-Study-Buddy
 Run or open the project in your development environment.
 
 Future updates will include setup instructions.
 
 🏅 Certificate
-
-🎓 CS50x: Introduction to Computer Science — HarvardX
+ 🎓CS50x: Introduction to Computer Science — HarvardX
 I successfully completed the course and earned a verified certificate!
 
 📄 License & Copyright
