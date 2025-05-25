@@ -78,7 +78,9 @@ Please do not reuse this content or code without explicit permission.
 🌟 Let's Connect!
 
 GitHub: @galya-dev
+
 Portfolio: coming soon
+
 Email: devgalyas@gmail.com
 
 💖 Thank you for visiting my project!
