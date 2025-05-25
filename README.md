@@ -30,7 +30,7 @@ Hi! I'm GALYA SARIKAYA, a certified tech educator and future AI Engineer.I hold 
 📱 Digital Marketing
 
 🧠 Software and Web Expertise Training  
-Altın Kariyer Akademi — 2025 📄 View Certificate _(coming soon)_
+Altın Kariyer Akademi — 2025 ⏳ *Awaiting Certificate*
 
 📜 CS50x Certificate
 
