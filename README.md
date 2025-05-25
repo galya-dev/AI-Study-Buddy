@@ -34,8 +34,7 @@ I hold a Master’s degree in Natural Sciences – Mathematics, and I’m passio
 ## 📜 CS50x Certificate
 
 ✅ Successfully completed **CS50x** from HarvardX — 2025  
-[![CS50 Certificate](./aa98cdb9-a3a2-42bb-9562-459473cebfec.png)](https://cs50.harvard.edu/x/)
-
+![CS50 Certificate](../aa98cdb9-a3a2-42bb-9562-459473cebfec.png)
 
 
 
