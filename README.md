@@ -79,7 +79,9 @@ Please do not reuse this content or code without explicit permission.
 
 GitHub: @galya-dev
 
-Portfolio: coming soon
+## 🌐 Portfolio
+
+[GALYA SARIKAYA – Certified Tech Trainer](https://galya-dev.github.io/TECH-TRAINER-CERTIFICATES/)
 
 Email: devgalyas@gmail.com
 
