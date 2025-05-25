@@ -1,4 +1,4 @@
-🤖 AI Study Buddy
+🤖 # AI-STUDY-BUDDY
 
 Your smart AI-powered assistant for better studying and learning organization.
 Final project of CS50x: Introduction to Computer Science — built with Python 🐍
