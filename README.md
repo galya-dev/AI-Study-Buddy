@@ -23,11 +23,12 @@ Final project of **CS50x: Introduction to Computer Science** — built with Pyth
 Hi! I'm **GALYA SARIKAYA**, a certified tech educator and future AI Engineer.  
 I hold a Master’s degree in Natural Sciences – Mathematics, and I’m passionate about:
 
-- 🤖 Artificial Intelligence  
+-  🤖 Artificial Intelligence  
 - 💻 Python & Web Development  
+- 🧠 Prompt Engineering & AI Tools  
 - 🚀 Drones & Embedded Systems  
 - 📱 Digital Marketing
-
+  
 ---
 
 ## 📜 CS50x Certificate
