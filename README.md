@@ -86,7 +86,12 @@ Email: devgalyas@gmail.com
 Let’s grow, code, and create together. 🚀
 👍 Love YOURSELF and never stop DREAMING!
 
+📝 Feedback
 
+I shared this portfolio with my classmates from the AI (Yapay Zeka) course, and I received valuable feedback and encouraging comments.
+Several of my close friends and colleagues also found it impressive and inspiring.
+
+This positive response motivates me to continue learning, improving, and creating even more meaningful projects. 👍❤️🙏
 
 
 
